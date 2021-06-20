@@ -1,0 +1,437 @@
+,location,address11,city1,zipcode1,id,name_and_city,token_ratio,zip_match
+4704,Hospital,ST.  MARY  MERCY  HOSPITAL,LIVONIA,,12443,ST.  MARY  MERCY  HOSPITAL LIVONIA,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+4705,Hospital,Beaumont Hospital,Dearborn,,12444,Beaumont Hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4706,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,12450,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4707,Hospital,HENRY FORD HOSPITAL,DETROIT,,12454,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4708,Hospital,Beaumont Hospital,DEARBORN,,12456,Beaumont Hospital DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4709,Hospital,HENRY FORD HOSPITAL,DETROIT,,12462,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4710,Hospital,SINAI-GRACE HOSPITAL,DETROIT,,12463,SINAI-GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4711,Hospital,HENRY FORD HOSPITAL,DETROIT,,12468,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4713,Hospital,BEAUMONT HOSPITAL,DEARBORN,,12471,BEAUMONT HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4714,Hospital,ST. JOHN HOSPITAL,DETROIT,,12472,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4715,Hospital,Detroit Receiving Hospital,DETROIT,,12486,Detroit Receiving Hospital DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4716,Hospital,Garden City Hospital,Garden City,,12490,Garden City Hospital Garden City,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4717,Hospital,SINAI GRACE HOSPITAL,DETROIT,,12491,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4719,Hospital,BEAUMONT HOSPITAL,TAYLOR,,12504,BEAUMONT HOSPITAL TAYLOR,"('Beaumont Hospital, Taylor Taylor', 100, 27)",48180-3330
+4721,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,12509,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4722,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,12511,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4723,Hospital,ST.  MARY  MERCY  HOSPITAL,LIVONIA,,12518,ST.  MARY  MERCY  HOSPITAL LIVONIA,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+4725,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,12524,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4729,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,12529,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4730,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,12530,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4731,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,12531,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4732,Hospital,BEAUMONT  HOSPITAL,DEARBORN,,12544,BEAUMONT  HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4733,Hospital,BEAUMONT  HOSPITAL,DEARBORN,,12547,BEAUMONT  HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4734,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,12554,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4735,Hospital,BEAUMONT  HOSPITAL,TAYLOR,,12560,BEAUMONT  HOSPITAL TAYLOR,"('Beaumont Hospital, Taylor Taylor', 100, 27)",48180-3330
+4736,Hospital,HENRY  FORD  HOSPITAL,WYANDOTTE,,12561,HENRY  FORD  HOSPITAL WYANDOTTE,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+4737,Hospital,ST.  JOHN HOSPITAL,DETROIT,,12562,ST.  JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4738,Hospital,BEAUMONT HOSPITAL,TAYLOR,,12576,BEAUMONT HOSPITAL TAYLOR,"('Beaumont Hospital, Taylor Taylor', 100, 27)",48180-3330
+4740,Hospital,BEAUMONT HOSPITAL,TAYLOR,,12586,BEAUMONT HOSPITAL TAYLOR,"('Beaumont Hospital, Taylor Taylor', 100, 27)",48180-3330
+4741,Hospital,Henry Ford Hospital,Wyandotte,,12588,Henry Ford Hospital Wyandotte,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+4743,Hospital,DETROIT RECEIVING HOSPITAL,DETROIT,,12602,DETROIT RECEIVING HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4744,Hospital,Detroit Receiving Hopital,Detroit,,12626,Detroit Receiving Hopital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 81, 43)",48201-2153
+4749,Hospital,Henry Ford Hospital,Detroit,,12648,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4751,Hospital,Garden City Hospital,Garden City,,12654,Garden City Hospital Garden City,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4752,Hospital,ST. JOHN HOSPITAL,DETROIT,,12671,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4753,Hospital,St. John Hospital,Detroit,,12685,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4754,Hospital,ST JOHN HOSPITAL,DETROIT,,12691,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4755,Hospital,BEAUMONT HOSPITAL,DEARBORN,,12695,BEAUMONT HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4756,Hospital,Beaumont Hospital,Dearborn,,12711,Beaumont Hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4758,Hospital,Detroit Receiving Hospital,DETROIT,,12734,Detroit Receiving Hospital DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4760,Hospital,BEAUMONT  HOSPITAL,TRENTON,,12744,BEAUMONT  HOSPITAL TRENTON,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+4761,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,12745,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4762,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,12747,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4764,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,12761,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4765,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,12765,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4766,Hospital,Beaumoint South Shore,TRENTON,,12771,Beaumoint South Shore TRENTON,"('Beaumont Hospital, Trenton Trenton', 78, 28)",48183-4625
+4768,Hospital,henry ford hospital,detroit,,12773,henry ford hospital detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4771,Hospital,Henry Ford Hospital,Detroit,,12795,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4772,Hospital,SINAI-GRACE HOSPITAL,detroit,,12803,SINAI-GRACE HOSPITAL detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4777,Hospital,HENRY FORD HOSPITAL,DETROIT,,12836,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4780,Hospital,Henry Ford Hospital,Detroit,,12855,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4781,Hospital,Beaumont Hospital,Taylor,,12859,Beaumont Hospital Taylor,"('Beaumont Hospital, Taylor Taylor', 100, 27)",48180-3330
+4782,Hospital,Beaumont Hospital,Dearborn,,12879,Beaumont Hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4783,Hospital,ST. JOHN HOSPITAL,DETROIT,,12887,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4784,Hospital,BEAUMONT  HOSPITAL,DEARBORN,,12906,BEAUMONT  HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4785,Hospital,BEAUMONT  HOSPITAL,TRENTON,,12911,BEAUMONT  HOSPITAL TRENTON,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+4786,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,12912,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4787,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,12913,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4788,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,12915,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4789,Hospital,HENRY  FORD  HOSPITAL,GROSSE  POINTE,,12916,HENRY  FORD  HOSPITAL GROSSE  POINTE,"('Beaumont Hospital, Grosse Pointe Grosse Pointe', 83, 25)",48230-1507
+4790,Hospital,BEAUMONT  HOSPITAL,WAYNE,,12941,BEAUMONT  HOSPITAL WAYNE,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+4791,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,12942,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4792,Hospital,Garden City Hospital,Garden City,,12947,Garden City Hospital Garden City,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4794,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,12951,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4795,Hospital,Detroit Receiving hospital,Detroit,,12963,Detroit Receiving hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4797,Hospital,Children's hospital,Detroit,,12972,Children's hospital Detroit,"(""DMC Children's Hospital of Michigan Detroit"", 100, 42)",48201-2119
+4798,Hospital,Beaumont Hospital,Dearborn,,12976,Beaumont Hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4799,Hospital,Sinai-Grace Hospital,DETROIT,,12983,Sinai-Grace Hospital DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4800,Hospital,SINAI GRACE HOSPITAL,DETROIT,,12995,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4801,Hospital,St. Mary Mercy Hospital,LIVONIA,,12998,St. Mary Mercy Hospital LIVONIA,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+4802,Hospital,BEAUMONT - HERITAGE,TAYLOR,,13011,BEAUMONT - HERITAGE TAYLOR,"('Beaumont Hospital, Taylor Taylor', 83, 27)",48180-3330
+4806,Hospital,Beaumont Hospital,Wayne,,13027,Beaumont Hospital Wayne,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+4807,Hospital,Henry Ford Hospital,Detroit,,13035,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4808,Hospital,DETROIT RECEIVING HOSPITAL,DETROIT,,13051,DETROIT RECEIVING HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4809,Hospital,Beaumont Dearborn,Dearborn,,13053,Beaumont Dearborn Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4810,Hospital,Beaumont Hospital Wayne,Wayne,,13061,Beaumont Hospital Wayne Wayne,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+4811,Hospital,Beaumont Hospital,Trenton,,13062,Beaumont Hospital Trenton,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+4812,Hospital,HENRY FORD HOSPITAL,DETROIT,,13064,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4813,Hospital,Henry Ford Hospital,DETROIT,,13065,Henry Ford Hospital DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4814,Hospital,Detroit Receiving Hospital,Detroit,,13070,Detroit Receiving Hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4815,Hospital,Garden City Hospital,Garden City,,13074,Garden City Hospital Garden City,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4816,Hospital,Henry Ford hospital,Detroit,,13090,Henry Ford hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4819,Hospital,SINAI GRACE HOSPITAL,DETROIT,,13102,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4821,Hospital,HENRY FORD HOSPITAL,DETROIT,,13107,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4822,Hospital,SINAI GRACE HOSPITAL,DETROIT,,13112,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4823,Hospital,HENRY FORD HOSPITAL,DETROIT,,13113,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4824,Hospital,BEAUMONT HOSPITAL,DEARBORN,,13114,BEAUMONT HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4825,Hospital,Harper Hospital,DETROIT,,13121,Harper Hospital DETROIT,"('DMC Harper/Hutzel Hospital Detroit', 100, 44)",48201-2018
+4826,Hospital,St. John hospital,Detroit,,13122,St. John hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4827,Hospital,BEAUMONT HOSPITAL,TAYLOR,,13127,BEAUMONT HOSPITAL TAYLOR,"('Beaumont Hospital, Taylor Taylor', 100, 27)",48180-3330
+4828,Hospital,St. John hospital,Detroit,,13151,St. John hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4831,Hospital,GARDEN  CITY  HOSPITAL,GARDEN CITY,,13169,GARDEN  CITY  HOSPITAL GARDEN CITY,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4832,Hospital,BEAUMONT  HOSPITAL,DEARBORN,,13186,BEAUMONT  HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4834,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,13190,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4836,Hospital,Sinai Grace hospital,DETROIT,,13203,Sinai Grace hospital DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4837,Hospital,BEAUMONT  HOSPITAL  SOUTH,TRENTON,,13211,BEAUMONT  HOSPITAL  SOUTH TRENTON,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+4838,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,13224,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4840,Hospital,GARDEN  CITY  HOSPITAL,GARDEN  CITY,,13234,GARDEN  CITY  HOSPITAL GARDEN  CITY,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4842,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,13239,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4843,Hospital,BEAUMONT  HOSPITAL,DEARBORN,,13244,BEAUMONT  HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4844,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,13247,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4845,Hospital,ST JOHN HOSPITAL,DETROIT,,13251,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4846,Hospital,St. John hospital,Detroit,,13253,St. John hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4847,Hospital,HENRY FORD HOSPITAL,DETROIT,,13263,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4848,Hospital,SINAI GRACE HOSPITAL,DETROIT,,13268,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4849,Hospital,SINAI GRACE HOSPITAL,DETROIT,,13269,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4850,Hospital,HENRY FORD COTTAGE HOSPITAL,Grosse Pointe Farms,,13278,HENRY FORD COTTAGE HOSPITAL Grosse Pointe Farms,"('Beaumont Hospital, Grosse Pointe Grosse Pointe', 83, 25)",48230-1507
+4853,Hospital,HENRY FORD HOSPITAL,DETROIT,,13296,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4854,Hospital,HENRY FORD HOSPITAL,DETROIT,,13297,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4858,Hospital,St. John Hospital,DETROIT,,13311,St. John Hospital DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4859,Hospital,detroit receiving hospital,Detroit,,13319,detroit receiving hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4862,Hospital,henry ford hospital,detroit,,13325,henry ford hospital detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4863,Hospital,HENRY FORD HOSPITAL,DETROIT,,13328,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4864,Hospital,St. Mary Mercy Hospital,Livonia,,13329,St. Mary Mercy Hospital Livonia,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+4865,Hospital,Detroit Receiving Hospital,DETROIT,,13354,Detroit Receiving Hospital DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4869,Hospital,BEAUMONT HOSPITAL,WAYNE,,13390,BEAUMONT HOSPITAL WAYNE,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+4870,Hospital,HENRY FORD HOSPITAL,DETROIT,,13394,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4871,Hospital,Detroit Receiving Hospital,DETROIT,,13398,Detroit Receiving Hospital DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4873,Hospital,CHILDRDEN'S HOPSITAL,DETROIT,,13406,CHILDRDEN'S HOPSITAL DETROIT,"(""DMC Children's Hospital of Michigan Detroit"", 73, 42)",48201-2119
+4874,Hospital,BEAUMONT HOSPITAL,DEARBORN,,13407,BEAUMONT HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4875,Hospital,Beaumont Hospital,Wayne,,13416,Beaumont Hospital Wayne,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+4877,Hospital,Sinai-Grace hospital,Detroit,,13443,Sinai-Grace hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4878,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,13453,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4879,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,13456,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4880,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,13472,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4881,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,13476,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4882,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,13478,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4883,Hospital,GARDEN  CITY  HOSPITAL,GARDEN  CITY,,13486,GARDEN  CITY  HOSPITAL GARDEN  CITY,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4884,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,13509,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4885,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,13510,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4886,Hospital,Henry Ford Wyandotte,Wyandotte,,13514,Henry Ford Wyandotte Wyandotte,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+4887,Hospital,Henry Ford Hospital,Detroit,,13537,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4888,Hospital,SINAI-GRACE HOSPITAL,DETROIT,,13559,SINAI-GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4890,Hospital,HENRY FORD HOSPITAL,WYANDOTTE,,13571,HENRY FORD HOSPITAL WYANDOTTE,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+4891,Hospital,Sinai-Grace hospital,Detroit,,13576,Sinai-Grace hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4892,Hospital,Garden City Hospital,Detroit,,13578,Garden City Hospital Detroit,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4893,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,13580,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4894,Hospital,CHILDREN'S  HOSPITAL,DETROIT,,13584,CHILDREN'S  HOSPITAL DETROIT,"(""DMC Children's Hospital of Michigan Detroit"", 100, 42)",48201-2119
+4895,Hospital,Henry Ford Hospital,Detroit,,13588,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4896,Hospital,Sinai Grace Hospital,Detroit,,13600,Sinai Grace Hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4897,Hospital,Detroit Receiving hospital,DETROIT,,13612,Detroit Receiving hospital DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4898,Hospital,Beaumont Hospital,Wayne,,13614,Beaumont Hospital Wayne,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+4900,Hospital,SINAI-GRACE HOSPITAL,DETROIT,,13649,SINAI-GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4901,Hospital,SINAI-GRACE HOSPITAL,DETROIT,,13652,SINAI-GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4902,Hospital,Henry Ford hospital,Wyandotte,,13654,Henry Ford hospital Wyandotte,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+4903,Hospital,St. John hospital,Detroit,,13655,St. John hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4904,Hospital,Beaumont hospital,Dearborn,,13657,Beaumont hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4906,Hospital,Detroit Receiving Hospital,Detroit,,13662,Detroit Receiving Hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4907,Hospital,st john hospital,Detroit,,13664,st john hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4908,Hospital,Henry Ford Hospital,Detroit,,13665,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4909,Hospital,Detroit Receiving Hospital,Detroit,,13667,Detroit Receiving Hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4911,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,13680,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4912,Hospital,GARDEN  CITY  HOSPITAL,GARDEN  CITY,,13681,GARDEN  CITY  HOSPITAL GARDEN  CITY,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4913,Hospital,GARDEN  CITY  HOSPITAL,GARDEN  CITY,,13692,GARDEN  CITY  HOSPITAL GARDEN  CITY,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4914,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,13713,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4915,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,13722,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4916,Hospital,ST. JOHN HOSPITAL,DETROIT,,13738,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4917,Hospital,Detroit Receiving hospital,Detroit,,13739,Detroit Receiving hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4918,Hospital,Detroit Receiving hospital,Detroit,,13740,Detroit Receiving hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4919,Hospital,ST JOHN HOSPITAL,DETROIT,,13774,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4920,Hospital,SINAI GRACE HOSPITAL,DETROIT,,13776,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4922,Hospital,HENRY FORD HOSPITAL,DETROIT,,13782,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4923,Hospital,Beaumont Hospital,Trenton,,13792,Beaumont Hospital Trenton,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+4924,Hospital,ST. JOHN HOSPITAL,DETROIT,,13793,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4925,Hospital,ASCENSION ST. JOHN HOSPITAL,DETROIT,,13794,ASCENSION ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4926,Hospital,Beaumont Hospital,Dearborn,,13799,Beaumont Hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4928,Hospital,HENRY FORD HOSPITAL,DETROIT,,13804,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4929,Hospital,Detroit Receiving Hospital,DETROIT,,13805,Detroit Receiving Hospital DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4930,Hospital,GARDEN CITY HOSPITAL,GARDEN CITY,,13815,GARDEN CITY HOSPITAL GARDEN CITY,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4932,Hospital,SINAI- GRACE  HOSPITAL,DETROIT,,13819,SINAI- GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4933,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,13821,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4934,Hospital,Sinai-Grace Hospital,Detroit,,13825,Sinai-Grace Hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4936,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,13851,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4937,Hospital,ST JOHN HOSPITAL,DETROIT,,13855,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4938,Hospital,ST JOHN HOSPITAL,DETROIT,,13857,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4939,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,13859,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4940,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,13861,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4941,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,13864,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4944,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,13885,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4945,Hospital,BEAUMONT  HOSPITAL,DEARBORN,,13892,BEAUMONT  HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4946,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,13894,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4947,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,13896,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4949,Hospital,Ascension St. John Hospital,DETROIT,,13899,Ascension St. John Hospital DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4950,Hospital,Henry Ford Hospital,Detroit,,13932,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4951,Hospital,BEAUMONT HOSPITAL,WYANDOTTE,,13938,BEAUMONT HOSPITAL WYANDOTTE,"('Beaumont Hospital, Wayne Wayne', 88, 30)",48184-2405
+4952,Hospital,HENRY FORD HOSPITAL,DETROIT,,13946,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4953,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,13953,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4954,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,13955,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4955,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,13958,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4957,Hospital,BEAUMONT  HOSPITAL,TAYLOR,,13960,BEAUMONT  HOSPITAL TAYLOR,"('Beaumont Hospital, Taylor Taylor', 100, 27)",48180-3330
+4958,Hospital,BEAUMONT  HOSPITAL  DEARBORN,DEARBORN,,13966,BEAUMONT  HOSPITAL  DEARBORN DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4959,Hospital,SINAI GRACE  HOSPITAL,DETROIT,,13969,SINAI GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4960,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,13970,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4961,Hospital,CHILDREN'S  HOSPITAL,DETROIT,,13974,CHILDREN'S  HOSPITAL DETROIT,"(""DMC Children's Hospital of Michigan Detroit"", 100, 42)",48201-2119
+4963,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,13976,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4964,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,13977,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4965,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,13980,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4966,Hospital,BEAUMONT  HOSPITAL  S. SHORE,TRENTON,,13985,BEAUMONT  HOSPITAL  S. SHORE TRENTON,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+4967,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,13989,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4968,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,13991,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4969,Hospital,ST.  MARY  HOSPITAL,LIVONIA,,14004,ST.  MARY  HOSPITAL LIVONIA,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+4970,Hospital,ST JOHN HOSPITAL,DETROIT,,14010,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4971,Hospital,Beaumont Hospital,Trenton,,14013,Beaumont Hospital Trenton,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+4972,Hospital,CHILDREN'S HOSPITAL,DETROIT,,14017,CHILDREN'S HOSPITAL DETROIT,"(""DMC Children's Hospital of Michigan Detroit"", 100, 42)",48201-2119
+4973,Hospital,DETROIT RECEIVING HOSPITAL,DETROIT,,14018,DETROIT RECEIVING HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4974,Hospital,Sinai-Grace Hospital,Detroit,,14021,Sinai-Grace Hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4975,Hospital,Beaumont Hospital,Wayne,,14022,Beaumont Hospital Wayne,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+4976,Hospital,St. John Hospital,Detroit,,14024,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4977,Hospital,GARDEN CITY HOSPITAL,GARDEN CITY,,14029,GARDEN CITY HOSPITAL GARDEN CITY,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4978,Hospital,ST. JOHN HOSPITAL,DETROIT,,14030,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4979,Hospital,ST. JOHN HOSPITAL,DETROIT,,14036,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+4980,Hospital,BEAUMONT HOSPITAL,DEARBORN,,14039,BEAUMONT HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4981,Hospital,SINAI-GRACE HOSPITAL,DETROIT,,14040,SINAI-GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4982,Hospital,St. Mary hospital,Livonia,,14041,St. Mary hospital Livonia,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+4985,Hospital,Garden City Hospital,Garden City,,14071,Garden City Hospital Garden City,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+4987,Hospital,Detroit Receiving Hospital,Detroit,,14073,Detroit Receiving Hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4988,Hospital,Henry Ford hospital,Detroit,,14074,Henry Ford hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4989,Hospital,CHILDREN'S HOSPITAL,DETROIT,,14075,CHILDREN'S HOSPITAL DETROIT,"(""DMC Children's Hospital of Michigan Detroit"", 100, 42)",48201-2119
+4990,Hospital,Sinai-Grace Hospital,Detroit,,14079,Sinai-Grace Hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+4991,Hospital,Henry Ford Hospital,Detroit,,14080,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+4992,Hospital,Beaumont  Hospital,Dearborn,,14083,Beaumont  Hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+4993,Hospital,Detroit Receiving Hospital,DETROIT,,14084,Detroit Receiving Hospital DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4995,Hospital,St. Mary Hospital,Livonia,,14087,St. Mary Hospital Livonia,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+4996,Hospital,Detroit Receiving Hospital,DETROIT,,14098,Detroit Receiving Hospital DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+4997,Hospital,Beaumont Hosptial,DEARBORN,,14104,Beaumont Hosptial DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 96, 23)",48124-4089
+4998,Hospital,St. Mary hospital,Livonia,,14107,St. Mary hospital Livonia,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+5000,Hospital,Beaumont Hospital,WAYNE,,14112,Beaumont Hospital WAYNE,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+5001,Hospital,ST. JOHN HOSPITAL,DETROIT,,14126,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5002,Hospital,Promedica Monroe Hospital,MONROE,,14137,Promedica Monroe Hospital MONROE,"('ProMedica Monroe Regional Hospital Monroe', 100, 125)",48162-7815
+5003,Hospital,Sinai Grace Hospital,DETROIT,,14139,Sinai Grace Hospital DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5004,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,14150,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5005,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,14153,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5006,Hospital,BEAUMONT  HOSPITAL,WAYNE,,14162,BEAUMONT  HOSPITAL WAYNE,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+5007,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,14170,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5008,Hospital,HENRY  FORD  WYANDOTTE,WYANDOTTE,,14173,HENRY  FORD  WYANDOTTE WYANDOTTE,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+5009,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,14191,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5010,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,14192,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5011,Hospital,BEAUMONT  HOSPITAL,WAYNE,,14194,BEAUMONT  HOSPITAL WAYNE,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+5012,Hospital,Sinai-Grace hospital,Detroit,,14200,Sinai-Grace hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5013,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,14202,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5014,Hospital,St. John Hospital,Detroit,,14203,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5015,Hospital,St. John Hospital,Detroit,,14205,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5016,Hospital,St. John Hospital,Detroit,,14213,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5017,Hospital,Beaumont Hospital,Trenton,,14217,Beaumont Hospital Trenton,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+5019,Hospital,St. John Hospital,Detroit,,14220,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5020,Hospital,St. John Hospital,Detroit,,14221,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5021,Hospital,Beaumont Hospital,Taylor,,14225,Beaumont Hospital Taylor,"('Beaumont Hospital, Taylor Taylor', 100, 27)",48180-3330
+5022,Hospital,St. John Hospital,Detroit,,14231,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5023,Hospital,Henry Ford Hospital,Detroit,,14243,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5024,Hospital,Henry Ford Hospital,Detroit,,14247,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5025,Hospital,Garden City Hospital,Garden City,,14257,Garden City Hospital Garden City,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+5029,Hospital,Sinai-Grace Hospital,Detroit,,14262,Sinai-Grace Hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5030,Hospital,ST. JOHN HOSPITAL,DETROIT,,14263,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5032,Hospital,ST JOHN HOSPITAL,DETROIT,,14275,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5033,Hospital,BEAUMONT HOSPITAL,DEARBORN,,14277,BEAUMONT HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5034,Hospital,Beaumont Hospital,DEARBORN,,14280,Beaumont Hospital DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5035,Hospital,ST JOHN HOSPITAL,DETROIT,,14287,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5036,Hospital,ST JOHN HOSPITAL,DETROIT,,14291,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5037,Hospital,St. John Hospital,DETROIT,,14293,St. John Hospital DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5040,Hospital,Beaumont Hospital,Dearborn,,14317,Beaumont Hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5042,Hospital,Henry Ford Hospital,Detroit,,14321,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5043,Hospital,William Beaumont Hospital,Dearborn,,14322,William Beaumont Hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5044,Hospital,Detroit Receiving Hospital,Detroit,,14327,Detroit Receiving Hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5045,Hospital,BEAUMONT HOSPITAL,DEARBORN,,14334,BEAUMONT HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5046,Hospital,St. John Hospital,Detroit,,14339,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5047,Hospital,St. John Hospital,Detroit,,14345,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5048,Hospital,William Beaumont Hospital,Trenton,,14353,William Beaumont Hospital Trenton,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+5049,Hospital,St. John Hospital,Detroit,,14355,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5051,Hospital,Detroit Receiving Hospital,DETROIT,,14364,Detroit Receiving Hospital DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5053,Hospital,ST. JOHN HOSPITAL,DETROIT,,14371,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5054,Hospital,St. Mary Mercy Hospital,LIVONIA,,14373,St. Mary Mercy Hospital LIVONIA,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+5056,Hospital,Detroit Receiving Hospital,Detroit,,14383,Detroit Receiving Hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5057,Hospital,Detroit Receiving Hospital,Detroit,,14390,Detroit Receiving Hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5058,Hospital,BEAUMONT  HOSPITAL,TRENTON,,14432,BEAUMONT  HOSPITAL TRENTON,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+5060,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,14451,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5061,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,14453,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5062,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,14467,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5063,Hospital,GARDEN  CITY  HOSPITAL,GARDEN  CITY,,14478,GARDEN  CITY  HOSPITAL GARDEN  CITY,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+5064,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,14479,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5065,Hospital,CHILDREN'S  HOSPITAL,DETROIT,,14480,CHILDREN'S  HOSPITAL DETROIT,"(""DMC Children's Hospital of Michigan Detroit"", 100, 42)",48201-2119
+5066,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,14482,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5068,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,14484,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5069,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,14489,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5071,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,14491,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5072,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,14498,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5073,Hospital,Sinai-Grace Hospital,DETROIT,,14508,Sinai-Grace Hospital DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5074,Hospital,ST JOHN HOSPITAL,DETROIT,,14510,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5075,Hospital,HENRY FORD HOSPITAL,DETROIT,,14511,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5076,Hospital,SINAI GRACE HOSPITAL,DETROIT,,14515,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5077,Hospital,Beaumont Wayne Hospital,WAYNE,,14528,Beaumont Wayne Hospital WAYNE,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+5078,Hospital,St. John Hospital,Detroit,,14529,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5080,Hospital,BEAUMONT HOSPITAL,GROSSE POINTE,,14532,BEAUMONT HOSPITAL GROSSE POINTE,"('Beaumont Hospital, Grosse Pointe Grosse Pointe', 100, 25)",48230-1507
+5081,Hospital,Detroit Receiving hospital,Detroit,,14535,Detroit Receiving hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5082,Hospital,Sinai-Grace hospital,DETROIT,,14537,Sinai-Grace hospital DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5083,Hospital,HENRY FORD HOSPITAL,DETROIT,,14538,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5087,Hospital,Henry Ford Hospital,Wyandotte,,14548,Henry Ford Hospital Wyandotte,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+5088,Hospital,DETROIT RECEIVING HOSPITAL,DETROIT,,14559,DETROIT RECEIVING HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5089,Hospital,St. Marcy Mercy hospital,Livonia,,14563,St. Marcy Mercy hospital Livonia,"('St. Mary Mercy Hospital Livonia', 98, 165)",48154-1988
+5092,Hospital,Henry Ford hospital,Detroit,,14567,Henry Ford hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5097,Hospital,Detroit Recieving Hopsital,Detroit,,14587,Detroit Recieving Hopsital Detroit,"('Select Specialty Hospital - NW Detroit Detroit', 65, 135)",48235-2624
+5098,Hospital,DETROIT RECEIVING HOSPITAL,DETROIT,,14590,DETROIT RECEIVING HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5099,Hospital,ST. JOHN HOSPITAL,DETROIT,,14598,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5100,Hospital,ST. MARY MERCY HOSPITAL,LIVONIA,,14599,ST. MARY MERCY HOSPITAL LIVONIA,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+5101,Hospital,ST. JOHN HOSPITAL,DETROIT,,14604,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5102,Hospital,Harper Hospital,Detroit,,14615,Harper Hospital Detroit,"('DMC Harper/Hutzel Hospital Detroit', 100, 44)",48201-2018
+5103,Hospital,Sanai Grace Hospital,Detroit,,14618,Sanai Grace Hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 90, 48)",48235-2679
+5104,Hospital,Detroit Receiving Hospital,Detroit,,14619,Detroit Receiving Hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5105,Hospital,ST. JOHN HOSPITAL,DETROIT,,14630,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5107,Hospital,HENRY FORD HOSPITAL,DETROIT,,14648,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5109,Hospital,SINAI GRACE HOSPITAL,DETROIT,,14650,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5110,Hospital,ST. JOHN HOSPITAL,DETROIT,,14654,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5112,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,14661,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5113,Hospital,BEAUMONT  HOSPITAL,DEARBORN,,14667,BEAUMONT  HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5114,Hospital,HENRY  FORD  HOSPITAL,WYANDOTTE,,14677,HENRY  FORD  HOSPITAL WYANDOTTE,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+5115,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,14683,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5116,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,14684,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5118,Hospital,ST.  MARY  MERCY  HOSPITAL,LIVONIA,,14698,ST.  MARY  MERCY  HOSPITAL LIVONIA,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+5120,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,14701,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5122,Hospital,Beaumont Hospital,DEARBORN,,14727,Beaumont Hospital DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5123,Hospital,HENRY FORD WYANDOTTE,WYANDOTTE,,14730,HENRY FORD WYANDOTTE WYANDOTTE,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+5124,Hospital,ST. JOHN HOSPITAL,DETROIT,,14734,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5125,Hospital,HENRY FORD HOSPITAL,DETROIT,,14738,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5126,Hospital,St. Mary Mercy Hospital,LIVONIA,,14739,St. Mary Mercy Hospital LIVONIA,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+5127,Hospital,SINAI GRACE HOSPITAL,DETROIT,,14744,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5128,Hospital,SINAI-GRACE HOSPITAL,DETROIT,,14745,SINAI-GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5129,Hospital,SINAI GRACE HOSPITAL,DETROIT,,14746,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5130,Hospital,DETROIT RECEIVING HOSPITAL,DETROIT,,14747,DETROIT RECEIVING HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5132,Hospital,ST JOHN HOSPITAL,DETROIT,,14756,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5133,Hospital,BEAUMONT HOSPITAL,DEARBORN,,14757,BEAUMONT HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5135,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,14764,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5137,Hospital,BEAUMONT OAKWOOD,DEARBORN,,14767,BEAUMONT OAKWOOD DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 81, 23)",48124-4089
+5138,Hospital,BEAUMONT HOSPITAL,WAYNE,,14770,BEAUMONT HOSPITAL WAYNE,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+5144,Hospital,Henrey Ford  Hospital,Wyandotte,,14787,Henrey Ford  Hospital Wyandotte,"('Henry Ford Wyandotte Hospital Wyandotte', 98, 65)",48192-4668
+5145,Hospital,SINAI-GRACE HOSPITAL,DETROIT,,14792,SINAI-GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5147,Hospital,Beaumont Hospital,Dearborn,,14807,Beaumont Hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5150,Hospital,SINAI-GRACE HOSPITAL,DETROIT,,14817,SINAI-GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5151,Hospital,Beaumont Hospital,Dearbprn,,14820,Beaumont Hospital Dearbprn,"('Beaumont Hospital, Dearborn Dearborn', 96, 23)",48124-4089
+5152,Hospital,ST. JOHN HOSPITAL,DETROIT,,14834,ST. JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5153,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,14841,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5154,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,14842,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5157,Hospital,BEAUMONT  HOSPITAL,DEARBORN,,14846,BEAUMONT  HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5162,Hospital,CHILDREN'S  HOSPITAL,DETROIT,,14853,CHILDREN'S  HOSPITAL DETROIT,"(""DMC Children's Hospital of Michigan Detroit"", 100, 42)",48201-2119
+5163,Hospital,PROMEDICA  OF  MONROE,MONROE,,14854,PROMEDICA  OF  MONROE MONROE,"('ProMedica Monroe Regional Hospital Monroe', 91, 125)",48162-7815
+5164,Hospital,St. John hospital,Detroit,,14856,St. John hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5167,Hospital,St. John hospital,Detroit,,14876,St. John hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5168,Hospital,Detroit Receiving Hospital,Detroit,,14877,Detroit Receiving Hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5169,Hospital,Henry Ford Hospital,Detroit,,14879,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5170,Hospital,St. John hospital,Detroit,,14880,St. John hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5171,Hospital,Beaumont Hospital,Dearborn,,14884,Beaumont Hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5173,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,14893,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5178,Hospital,Sinai-Grace Hospital,Detroit,,14909,Sinai-Grace Hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5179,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,14916,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5180,Hospital,HENRY FORD HOSPITAL,DETROIT,,14918,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5181,Hospital,HENRY  FORD  HOSPITAL,WYANDOTTE,,14920,HENRY  FORD  HOSPITAL WYANDOTTE,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+5184,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,14926,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5185,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,14928,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5186,Hospital,CHILDREN'S  HOSPITAL,DETROIT,,14929,CHILDREN'S  HOSPITAL DETROIT,"(""DMC Children's Hospital of Michigan Detroit"", 100, 42)",48201-2119
+5187,Hospital,BEAUMONT  HOSPITAL,DEARBORN,,14933,BEAUMONT  HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5188,Hospital,BEAUMONT  HOSPITAL,TRENTON,,14935,BEAUMONT  HOSPITAL TRENTON,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+5190,Hospital,BEAUMONT  HOSPITAL,DEARBORN,,14937,BEAUMONT  HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5191,Hospital,DETROIT  RECEIVING   HOSPITAL,DETROIT,,14940,DETROIT  RECEIVING   HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5192,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,14951,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5193,Hospital,Promedica Monroe Regional Hosp,MONROE,,14965,Promedica Monroe Regional Hosp MONROE,"('ProMedica Monroe Regional Hospital Monroe', 94, 125)",48162-7815
+5194,Hospital,DETROIT  RECEIVING  HOSPITAL,DETROIT,,14975,DETROIT  RECEIVING  HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5196,Hospital,Detroit Receiving Hospital,Detroit,,14982,Detroit Receiving Hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5198,Hospital,Beaumont Hospital,Dearborn,,14985,Beaumont Hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5199,Hospital,Sinia Grace Hospital,Detroit,,14986,Sinia Grace Hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 90, 48)",48235-2679
+5200,Hospital,St. John hospital,Detroit,,14991,St. John hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5201,Hospital,Sinai- Grace Hospital,Detroit,,14993,Sinai- Grace Hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5202,Hospital,Henry Ford Wyandotte,Wyandotte,,15002,Henry Ford Wyandotte Wyandotte,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+5204,Hospital,DETROIT RECEIVING HOSPIAL,DETROIT,,15005,DETROIT RECEIVING HOSPIAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 81, 43)",48201-2153
+5205,Hospital,DETROIT RECEIVING HOSPITAL,DETROIT,,15007,DETROIT RECEIVING HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5206,Hospital,BEAUMONT HOSPITAL,DEARBORN,,15009,BEAUMONT HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5208,Hospital,DETROIT RECEIVING HOSPITAL,DETROIT,,15025,DETROIT RECEIVING HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5209,Hospital,BEAUMONT HOSPITAL,TRENTON,,15026,BEAUMONT HOSPITAL TRENTON,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+5211,Hospital,Henry Ford Hospital,DETROIT,,15040,Henry Ford Hospital DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5212,Hospital,SINAI GRACE HOSPITAL,DETROIT,,15043,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5214,Hospital,BEAUMONT HOSPITAL,WAYNE,,15067,BEAUMONT HOSPITAL WAYNE,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+5215,Hospital,DETROIT RECEIVING HOSPITAL,DETROIT,,15069,DETROIT RECEIVING HOSPITAL DETROIT,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5217,Hospital,Henry Ford hospital,Detroit,,15072,Henry Ford hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5220,Hospital,HENRY FORD HOSPITAL,DETROIT,,15077,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5223,Hospital,HENRY FORD HOSPITAL,DETROIT,,15087,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5224,Hospital,Beaumont hospital,Taylor,,15089,Beaumont hospital Taylor,"('Beaumont Hospital, Taylor Taylor', 100, 27)",48180-3330
+5225,Hospital,St. John Hospital,Detroit,,15090,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5226,Hospital,St. John hospital,Detroit,,15098,St. John hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5232,Hospital,BEAUMONT  TAYLOR,TAYLOR,,15126,BEAUMONT  TAYLOR TAYLOR,"('Beaumont Hospital, Taylor Taylor', 100, 27)",48180-3330
+5235,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,15136,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5236,Hospital,Sinai Grace Hospital,Detroit,,15152,Sinai Grace Hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5238,Hospital,Promedica Regional Hospital,Monroe,,15166,Promedica Regional Hospital Monroe,"('ProMedica Monroe Regional Hospital Monroe', 100, 125)",48162-7815
+5239,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,15171,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5241,Hospital,Sinai Grace Hopsital,Detroit,,15175,Sinai Grace Hopsital Detroit,"('DMC Sinai-Grace Hospital Detroit', 90, 48)",48235-2679
+5243,Hospital,St. John Hospital,Detroit,,15187,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5246,Hospital,Detroit Receiving Hospital,Detroit,,15196,Detroit Receiving Hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5248,Hospital,St. John hospital,Detroit,,15198,St. John hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5249,Hospital,HENRY  FORD  HOSPITAL,DETROIT,,15200,HENRY  FORD  HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5252,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,15215,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5253,Hospital,Henry Ford Hospital,Wyandotte,,15225,Henry Ford Hospital Wyandotte,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+5254,Hospital,BEAUMONT  HOSPITAL,WAYNE,,15227,BEAUMONT  HOSPITAL WAYNE,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+5255,Hospital,GARDEN  CITY  HOSPITAL,GARDEN CITY,,15237,GARDEN  CITY  HOSPITAL GARDEN CITY,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+5256,Hospital,Henry Ford Hospital,Detroit,,15245,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5258,Hospital,Henry Ford Hospital,Wyandotte,,15255,Henry Ford Hospital Wyandotte,"('Henry Ford Wyandotte Hospital Wyandotte', 100, 65)",48192-4668
+5260,Hospital,ST JOHN HOSPITAL,DETROIT,,15259,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5261,Hospital,Henry Ford hospital,Detroit,,15261,Henry Ford hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5264,Hospital,Beaumont Hospital,WAYNE,,15273,Beaumont Hospital WAYNE,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+5265,Hospital,ST JOHN HOSPITAL,DETROIT,,15286,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5266,Hospital,ST JOHN HOSPITAL,DETROIT,,15287,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5268,Hospital,St. John Hospital,Detroit,,15290,St. John Hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5269,Hospital,Children's hospital,DETROIT,,15304,Children's hospital DETROIT,"(""DMC Children's Hospital of Michigan Detroit"", 100, 42)",48201-2119
+5273,Hospital,Beaumont Hospital,DEARBORN,,15324,Beaumont Hospital DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5275,Hospital,Henry Ford hospital,Detroit,,15333,Henry Ford hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5277,Hospital,Beaumont Hospital Southshore,TRENTON,,15338,Beaumont Hospital Southshore TRENTON,"('Beaumont Hospital, Trenton Trenton', 100, 28)",48183-4625
+5278,Hospital,St. John hospital,Detroit,,15342,St. John hospital Detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5279,Hospital,SINAI GRACE HOSPITAL,DETROIT,,15358,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5280,Hospital,HENRY FORD HOSPITAL,DETROIT,,15359,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5281,Hospital,SINAI GRACE HOSPITAL,DETROIT,,15367,SINAI GRACE HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5282,Hospital,HENRY FORD HOSPITAL,DETROIT,,15374,HENRY FORD HOSPITAL DETROIT,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5283,Hospital,Detroit Receiving Hospital,Detroit,,15376,Detroit Receiving Hospital Detroit,"('DMC Detroit Receiving Hospital and University Health Center Detroit', 100, 43)",48201-2153
+5284,Hospital,Garden City hospital,Garden City,,15391,Garden City hospital Garden City,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+5285,Hospital,Beaumont Hospital,Dearborn,,15393,Beaumont Hospital Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5286,Hospital,Beaumont,Dearborn,,15396,Beaumont Dearborn,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5287,Hospital,Beaumont Hospital,Wayne,,15397,Beaumont Hospital Wayne,"('Beaumont Hospital, Wayne Wayne', 100, 30)",48184-2405
+5289,Hospital,Sinai Grace Hospital,Detroit,,15406,Sinai Grace Hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5291,Hospital,CHILDREN'S  HOSPITAL,DETROIT,,15413,CHILDREN'S  HOSPITAL DETROIT,"(""DMC Children's Hospital of Michigan Detroit"", 100, 42)",48201-2119
+5292,Hospital,SINAI  GRACE  HOSPITAL,DETROIT,,15427,SINAI  GRACE  HOSPITAL DETROIT,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5293,Hospital,GARDEN  CITY  HOSPITAL,GARDEN  CITY,,15448,GARDEN  CITY  HOSPITAL GARDEN  CITY,"('Garden City Hospital Garden City', 100, 52)",48135-4001
+5295,Hospital,BEAUMONT  DEARBORN,DEARBORN,,15450,BEAUMONT  DEARBORN DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5297,Hospital,ST.  JOHN  HOSPITAL,DETROIT,,15458,ST.  JOHN  HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5298,Hospital,Sinai Grace Hospital,Detroit,,15474,Sinai Grace Hospital Detroit,"('DMC Sinai-Grace Hospital Detroit', 100, 48)",48235-2679
+5299,Hospital,ST. MARY HOSPITAL,LIVONIA,,15479,ST. MARY HOSPITAL LIVONIA,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+5301,Hospital,HENRY FORD HEALTH CTR,BROWNSTOWN,,15505,HENRY FORD HEALTH CTR BROWNSTOWN,"('Henry Ford Health System Detroit', 72, 60)",48202-3450
+5302,Hospital,ST JOHN HOSPITAL,DETROIT,,15516,ST JOHN HOSPITAL DETROIT,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5304,Hospital,BEAUMONT  HOSPITAL,DEARBORN,,15530,BEAUMONT  HOSPITAL DEARBORN,"('Beaumont Hospital, Dearborn Dearborn', 100, 23)",48124-4089
+5310,Hospital,Henry Ford Hospital,Detroit,,15562,Henry Ford Hospital Detroit,"('Henry Ford Hospital Detroit', 100, 61)",48202-2608
+5311,Hospital,ST. JOHN HOSPITAL,detroit,,15569,ST. JOHN HOSPITAL detroit,"('Ascension St. John Hospital Detroit', 100, 12)",48236-2172
+5314,Hospital,St. Mary Mercy,LIVONIA,,15594,St. Mary Mercy LIVONIA,"('St. Mary Mercy Hospital Livonia', 100, 165)",48154-1988
+5315,Hospital,Children's hospital,Detroit,,15601,Children's hospital Detroit,"(""DMC Children's Hospital of Michigan Detroit"", 100, 42)",48201-2119

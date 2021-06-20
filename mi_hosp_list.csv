@@ -1,0 +1,179 @@
+,hosp_name,hosp_type,address1,city,state,zip_code
+0,Ascension Borgess Allegan Hospital,Community Hospital|Critical Access Hospital,555 Linn St,Allegan,MI ,49010-1524
+1,Ascension Borgess Hospital,Teaching Hospital|Community Hospital,1521 Gull Rd,Kalamazoo,MI ,49048-1640
+2,Ascension Borgess-Lee Hospital,Community Hospital|Critical Access Hospital,420 W High St,Dowagiac,MI ,49047-1943
+3,Ascension Borgess-Pipp Hospital,Long Term Acute Care Hospital|Community Hospital,411 Naomi St,Plainwell,MI ,49080-1222
+4,Ascension Brighton Center for Recovery,,12851 Grand River Rd,Brighton,MI ,48116-8506
+5,Ascension Genesys Hospital,Teaching Hospital|Community Hospital,One Genesys Pkwy,Grand Blanc,MI ,48439-8066
+6,Ascension Macomb-Oakland Hospital,Teaching Hospital|Community Hospital,11800 E 12 Mile Rd,Warren,MI ,48093-3472
+7,"Ascension Providence Hospital, Novi Campus",Community Hospital,47601 Grand River Ave,Novi,MI ,48374-1233
+8,"Ascension Providence Hospital, Southfield Campus",Teaching Hospital|Community Hospital,16001 W 9 Mile Rd,Southfield,MI ,48075-4818
+9,Ascension Providence Rochester Hospital,Teaching Hospital|Community Hospital,1101 W University Dr,Rochester,MI ,48307-1831
+10,Ascension River District Hospital,Teaching Hospital|Community Hospital,4100 River Rd,East China,MI ,48054-2909
+11,Ascension Southeast Michigan,Community Hospital,28000 Dequindre Rd,Warren,MI ,48092-2468
+12,Ascension St. John Hospital,Teaching Hospital|Community Hospital,22101 Moross Rd,Detroit,MI ,48236-2172
+13,Ascension St. Joseph Hospital,Community Hospital,"200 Hemlock St, PO Box 659",Tawas City,MI ,48764-0659
+14,Ascension St. Mary's Hospital,Teaching Hospital|Community Hospital,800 S Washington Ave,Saginaw,MI ,48601-2594
+15,Ascension Standish Hospital,Teaching Hospital|Community Hospital|Critical Access Hospital,805 W Cedar,Standish,MI ,48658-9526
+16,"Aspirus Iron River Hospital &amp; Clinics, Inc.",Community Hospital|Critical Access Hospital,1400 W Ice Lake Rd,Iron River,MI ,49935-9526
+17,"Aspirus Ironwood Hospital &amp; Clinics, Inc.",Community Hospital|Critical Access Hospital,N10561 Grand View Ln,Ironwood,MI ,49938
+18,Aspirus Keweenaw Hospital,Community Hospital|Critical Access Hospital,205 Osceola St,Laurium,MI ,49913-2134
+19,Aspirus Ontonagon Hospital,Community Hospital|Critical Access Hospital,601 S 7th St,Ontonagon,MI ,49953-1448
+20,Baraga County Memorial Hospital,Public Hospital|Community Hospital|Critical Access Hospital,18341 US Highway 41,L'Anse,MI ,49946-8024
+21,BCA StoneCrest Center,,15000 Gratiot Ave,Detroit,MI ,48205-1973
+22,Beaumont Health,,"2000 Town Center, Ste 1200",Southfield,MI ,48076
+23,"Beaumont Hospital, Dearborn",Teaching Hospital|Community Hospital,"18101 Oakwood Blvd, PO Box 2500",Dearborn,MI ,48124-4089
+24,"Beaumont Hospital, Farmington Hills",Teaching Hospital|Community Hospital,28050 Grand River Ave,Farmington Hills,MI ,48336-5933
+25,"Beaumont Hospital, Grosse Pointe",Teaching Hospital|Community Hospital,468 Cadieux Rd,Grosse Pointe,MI ,48230-1507
+26,"Beaumont Hospital, Royal Oak",Teaching Hospital|Community Hospital,3601 W 13 Mile Rd,Royal Oak,MI ,48073-6712
+27,"Beaumont Hospital, Taylor",Teaching Hospital|Community Hospital,10000 Telegraph Rd,Taylor,MI ,48180-3330
+28,"Beaumont Hospital, Trenton",Teaching Hospital|Community Hospital,5450 Fort St,Trenton,MI ,48183-4625
+29,"Beaumont Hospital, Troy",Teaching Hospital|Community Hospital,44201 Dequindre Rd,Troy,MI ,48085-1117
+30,"Beaumont Hospital, Wayne",Teaching Hospital|Community Hospital,33155 Annapolis St,Wayne,MI ,48184-2405
+31,Bronson Battle Creek Hospital,Community Hospital,300 North Ave,Battle Creek,MI ,49017-3307
+32,Bronson Healthcare Group,Community Hospital,601 John St,Kalamazoo,MI ,49007-5295
+33,Bronson LakeView Hospital,Community Hospital|Critical Access Hospital,"408 Hazen St, PO Box 209",Paw Paw,MI ,49079-0209
+34,Bronson Methodist Hospital,Teaching Hospital|Community Hospital,"601 John St, Box C",Kalamazoo,MI ,49007-5341
+35,Bronson South Haven Hospital,Community Hospital,955 S Bailey Ave,South Haven,MI ,49090-9701
+36,Bronson Vicksburg Outpatient Center,,13326 N Boulevard St,Vicksburg,MI ,49097-1514
+37,C.S. Mott Children's Hospital and Von Voigtlander Women's Hospital,Community Hospital,1540 E Hospital Dr,Ann Arbor,MI ,48109-5000
+38,Covenant HealthCare,Teaching Hospital|Community Hospital,1447 N Harrison St,Saginaw,MI ,48602-4727
+39,Deckerville Community Hospital,Community Hospital|Critical Access Hospital,"3559 Pine St, PO Box 126",Deckerville,MI ,48427-7703
+40,Detroit Medical Center,Community Hospital,3990 John R St,Detroit,MI ,48201-2018
+41,Dickinson County Healthcare System,Public Hospital|Community Hospital,1721 S Stephenson Ave,Iron Mountain,MI ,49801-3637
+42,DMC Children's Hospital of Michigan,Teaching Hospital|Community Hospital,3901 Beaubien St,Detroit,MI ,48201-2119
+43,DMC Detroit Receiving Hospital and University Health Center,Teaching Hospital|Community Hospital,4201 Saint Antoine St,Detroit,MI ,48201-2153
+44,DMC Harper/Hutzel Hospital,Teaching Hospital|Community Hospital,"Hospital Administration, 3990 John R St",Detroit,MI ,48201-2018
+45,DMC Heart Hospital,Community Hospital,311 Mack Ave,Detroit,MI ,48201-2417
+46,DMC Huron Valley-Sinai Hospital,Teaching Hospital|Community Hospital,1 William Carls Dr,Commerce Township,MI ,48382-2201
+47,DMC Rehabilitation Institute of Michigan,Teaching Hospital,261 Mack Ave,Detroit,MI ,48201-2495
+48,DMC Sinai-Grace Hospital,Teaching Hospital|Community Hospital,6071 W Outer Dr,Detroit,MI ,48235-2679
+49,Eaton Rapids Medical Center,Community Hospital|Critical Access Hospital,"1500 S Main St, PO Box 130",Eaton Rapids,MI ,48827-0130
+50,Forest Health Medical Center,,135 S Prospect St,Ypsilanti,MI ,48198-7914
+51,Forest View Psychiatric Hospital,,1055 Medical Park Dr SE,Grand Rapids,MI ,49546-3607
+52,Garden City Hospital,Teaching Hospital|Community Hospital,6245 Inkster Rd,Garden City,MI ,48135-4001
+53,Harbor Beach Community Hospital Inc.,Teaching Hospital|Community Hospital|Critical Access Hospital,210 S First St,Harbor Beach,MI ,48441-1236
+54,"Havenwyck Hospital, Inc.",,1525 University Dr,Auburn Hills,MI ,48326-2673
+55,HealthSource Saginaw Inc.,Teaching Hospital,3340 Hospital Rd,Saginaw,MI ,48603
+56,Helen DeVos Children's Hospital,Community Hospital,"100 Michigan St NE, MC 250",Grand Rapids,MI ,49503-2560
+57,Helen Newberry Joy Hospital,Public Hospital|Community Hospital|Critical Access Hospital,502 W Harrie St,Newberry,MI ,49868-1209
+58,Henry Ford Allegiance Health,Teaching Hospital|Community Hospital,205 N East Ave,Jackson,MI ,49201-1753
+59,Henry Ford Allegiance Specialty Hospital,Long Term Acute Care Hospital,110 N Elm Ave,Jackson,MI ,49202-3595
+60,Henry Ford Health System,Community Hospital,1 Ford Place,Detroit,MI ,48202-3450
+61,Henry Ford Hospital,Teaching Hospital|Community Hospital,2799 W Grand Blvd,Detroit,MI ,48202-2608
+62,Henry Ford Kingswood Hospital,,10300 W 8 Mile Rd,Ferndale,MI ,48220-2100
+63,Henry Ford Macomb Hospitals,Teaching Hospital|Community Hospital,15855 19 Mile Rd,Clinton Township,MI ,48038-6324
+64,Henry Ford West Bloomfield Hospital,Community Hospital,6777 W Maple Rd,West Bloomfield,MI ,48322-3013
+65,Henry Ford Wyandotte Hospital,Teaching Hospital|Community Hospital,2333 Biddle Ave,Wyandotte,MI ,48192-4668
+66,Hills &amp; Dales General Hospital,Teaching Hospital|Community Hospital|Critical Access Hospital,4675 Hill St,Cass City,MI ,48726-1099
+67,Hillsdale Hospital,Teaching Hospital|Community Hospital,168 S Howell St,Hillsdale,MI ,49242-2081
+68,Holland Hospital,Community Hospital,602 Michigan Ave,Holland,MI ,49423-4999
+69,Hurley Medical Center,Teaching Hospital|Public Hospital|Community Hospital,One Hurley Plaza,Flint,MI ,48503-5993
+70,Kalkaska Memorial Health Center,Public Hospital|Community Hospital|Critical Access Hospital,419 S Coral St,Kalkaska,MI ,49646-2503
+71,Karmanos Cancer Center,Teaching Hospital,4100 John R St # MCHW02EA,Detroit,MI ,48201-2013
+72,Lake Huron Medical Center,Community Hospital,2601 Electric Ave,Port Huron,MI ,48060-6518
+73,"Lakeland Hospital, Niles",Community Hospital,31 N Saint Joseph Ave,Niles,MI ,49120-2207
+74,"Lakeland Hospital, Watervliet",Community Hospital,400 Medical Park Dr,Watervliet,MI ,49098-9225
+75,"Lakeland Medical Center, St. Joseph",Teaching Hospital|Community Hospital,1234 Napier Ave,Saint Joseph,MI ,49085-2158
+76,"Mackinac Straits Health System, Inc.",Community Hospital|Critical Access Hospital,1140 N State St,Saint Ignace,MI ,49781-1013
+77,Marlette Regional Hospital,Teaching Hospital|Community Hospital|Critical Access Hospital,"2770 Main St, PO Box 307",Marlette,MI ,48453-0307
+78,Mary Free Bed Rehabilitation Hospital,Teaching Hospital,235 Wealthy St SE,Grand Rapids,MI ,49503-5247
+79,McKenzie Health System,Community Hospital|Critical Access Hospital,120 N Delaware St,Sandusky,MI ,48471-1087
+80,McLaren Bay Region,Teaching Hospital|Community Hospital,1900 Columbus Ave,Bay City,MI ,48708-6831
+81,McLaren Bay Special Care,Long Term Acute Care Hospital,"3250 E Midland Rd, Ste One",Bay City,MI ,48706-2835
+82,McLaren Caro Region,Teaching Hospital|Community Hospital|Critical Access Hospital,"401 N Hooper St, PO Box 435",Caro,MI ,48723-0435
+83,McLaren Central Michigan,Teaching Hospital|Community Hospital,1221 South Dr,Mt. Pleasant,MI ,48858-3234
+84,McLaren Flint,Teaching Hospital|Community Hospital,401 S Ballenger Hwy,Flint,MI ,48532-3685
+85,McLaren Greater Lansing,Teaching Hospital|Community Hospital,401 W Greenlawn Ave,Lansing,MI ,48910-2819
+86,McLaren Health Care,Community Hospital,"G-3235 Beecher Rd, Suite B",Flint,MI ,48532-3615
+87,McLaren Lapeer Region,Community Hospital,1375 N Main St,Lapeer,MI ,48446-3490
+88,McLaren Macomb,Teaching Hospital|Community Hospital,1000 Harrington St,Mount Clemens,MI ,48043-2992
+89,McLaren Northern Michigan,Teaching Hospital|Community Hospital,416 Connable Ave,Petoskey,MI ,49770-2297
+90,"McLaren Northern Michigan, Cheboygan Campus",,748 S Main St,Cheboygan,MI ,49721-2299
+91,McLaren Oakland,Teaching Hospital|Community Hospital,50 N Perry St,Pontiac,MI ,48342
+92,McLaren Orthopedic Hospital,Community Hospital,2727 S Pennsylvania Ave,Lansing,MI ,48910-3488
+93,McLaren Port Huron,Community Hospital,"1221 Pine Grove Ave, PO Box 5011",Port Huron,MI ,48060-3511
+94,McLaren Thumb Region,Teaching Hospital|Community Hospital,1100 S Van Dyke Rd,Bad Axe,MI ,48413-9615
+95,Memorial Healthcare,Teaching Hospital|Community Hospital,826 W King St,Owosso,MI ,48867-2120
+96,Mercy Health General Campus,,1700 Oak Ave,Muskegon,MI ,49442-2407
+97,Mercy Health Hackley Campus,Teaching Hospital|Community Hospital,"1700 Clinton St, PO Box 3302",Muskegon,MI ,49443-3302
+98,Mercy Health Lakeshore Campus,Community Hospital|Critical Access Hospital,72 S State St,Shelby,MI ,49455-1299
+99,Mercy Health Mercy Campus,Teaching Hospital|Community Hospital,1500 E Sherman Blvd,Muskegon,MI ,49444-1849
+100,Mercy Health Saint Mary's,Teaching Hospital|Community Hospital,200 Jefferson Ave SE,Grand Rapids,MI ,49503-4598
+101,Metro Health - University of Michigan Health,Teaching Hospital|Community Hospital,"5900 Byron Center Ave SW, PO Box 916",Wyoming,MI ,49519-9606
+102,MidMichigan Health,Community Hospital,4000 Wellness Dr,Midland,MI ,48670
+103,MidMichigan Medical Center - Alpena,Community Hospital,1501 W Chisholm St,Alpena,MI ,49707-1401
+104,MidMichigan Medical Center - Clare,Teaching Hospital|Community Hospital,703 N McEwan St,Clare,MI ,48617-1440
+105,MidMichigan Medical Center - Gladwin,Teaching Hospital|Community Hospital|Critical Access Hospital,515 Quarter St,Gladwin,MI ,48624-1959
+106,MidMichigan Medical Center - Gratiot,Teaching Hospital|Community Hospital,300 E Warwick Dr,Alma,MI ,48801-1014
+107,MidMichigan Medical Center - Midland,Teaching Hospital|Community Hospital,4000 Wellness Dr,Midland,MI ,48670
+108,MidMichigan Medical Center - West Branch,Teaching Hospital|Community Hospital,2463 S M-30,West Branch,MI ,48661-1199
+109,Munising Memorial Hospital,Community Hospital|Critical Access Hospital,1500 Sand Point Rd,Munising,MI ,49862-1406
+110,Munson Healthcare,Community Hospital,1105 6th St,Traverse City,MI ,49684-2345
+111,Munson Healthcare Cadillac Hospital,Community Hospital,400 Hobart St,Cadillac,MI ,49601-2389
+112,Munson Healthcare Charlevoix Hospital,Teaching Hospital|Community Hospital|Critical Access Hospital,14700 Lake Shore Dr,Charlevoix,MI ,49720-1999
+113,Munson Healthcare Grayling Hospital,Teaching Hospital|Community Hospital,1100 E Michigan Ave,Grayling,MI ,49738-1312
+114,Munson Healthcare Manistee Hospital,Teaching Hospital|Community Hospital,1465 E Parkdale Ave,Manistee,MI ,49660-9709
+115,Munson Healthcare Otsego Memorial Hospital,Teaching Hospital|Community Hospital,825 N Center Ave,Gaylord,MI ,49735-1592
+116,Munson Healthcare Paul Oliver Memorial Hospital ,Community Hospital|Critical Access Hospital,224 Park Ave,Frankfort,MI ,49635-9658
+117,Munson Medical Center,Teaching Hospital|Community Hospital,1105 6th St,Traverse City,MI ,49684-2386
+118,North Ottawa Community Hospital,Community Hospital,1309 Sheldon Rd,Grand Haven,MI ,49417-2488
+119,O.S.F. St. Francis Hospital and Medical Group,Community Hospital|Critical Access Hospital,3401 Ludington St,Escanaba,MI ,49829-1377
+120,Oaklawn Hospital,Community Hospital,200 N Madison St,Marshall,MI ,49068-1199
+121,PHC of Michigan dba Harbor Oaks Hospital,,35031 23 Mile Rd,New Baltimore,MI ,48047-3649
+122,Pine Rest Christian Mental Health Services,Teaching Hospital,PO Box 165,Grand Rapids,MI ,49501-0165
+123,ProMedica Charles and Virginia Hickman Hospital,Community Hospital,5650 N. Adrian Highway,Adrian,MI ,49221-8318
+124,ProMedica Coldwater Regional Hospital,Teaching Hospital|Community Hospital,274 E Chicago St,Coldwater,MI ,49036-2041
+125,ProMedica Monroe Regional Hospital,Teaching Hospital|Community Hospital,718 N Macomb St,Monroe,MI ,48162-7815
+126,Saint Joseph Mercy Health System,Community Hospital,"Regional Office - St. Joseph Mercy Canton, 1600 S Canton Center Rd, Ste 310",Canton,MI ,48188
+127,Scheurer Hospital,Teaching Hospital|Community Hospital|Critical Access Hospital,170 N Caseville Rd,Pigeon,MI ,48755-9781
+128,Schoolcraft Memorial Hospital,Public Hospital|Community Hospital|Critical Access Hospital,7870W US Highway 2,Manistique,MI ,49854-8992
+129,Select Specialty Hospital - Ann Arbor,Long Term Acute Care Hospital,"5301 E Huron River Dr,, 7th Floor - North Tower",Ypsilanti,MI ,48197-1051
+130,Select Specialty Hospital - Downriver,Long Term Acute Care Hospital,"2333 Biddle Ave, 8th Floor",Wyandotte,MI ,48192-4668
+131,Select Specialty Hospital - Flint,Long Term Acute Care Hospital,401 S Ballenger Hwy,Flint,MI ,48532-3638
+132,Select Specialty Hospital - Grosse Pointe,Long Term Acute Care Hospital,"22101 Moross Rd, 6th Fl",Detroit,MI ,48236-2148
+133,Select Specialty Hospital - Macomb County,Teaching Hospital|Long Term Acute Care Hospital,215 North Ave,Mount Clemens,MI ,48043-1700
+134,Select Specialty Hospital - Muskegon,Long Term Acute Care Hospital,"1700 Clinton St, South 3",Muskegon,MI ,49442-5502
+135,Select Specialty Hospital - NW Detroit,Long Term Acute Care Hospital,6071 W Outer Dr,Detroit,MI ,48235-2624
+136,Select Specialty Hospital - Pontiac,Long Term Acute Care Hospital,"44405 Woodward Ave, H-800",Pontiac,MI ,48341-5023
+137,Select Specialty Hospital - Saginaw,Long Term Acute Care Hospital,1447 N Harrison St,Saginaw,MI ,48602-4785
+138,Select Specialty Hospital - Spectrum Health,Long Term Acute Care Hospital,1840 Wealthy St SE Fl 5,Grand Rapids,MI ,49506-2921
+139,Select Specialty Kalamazoo DBA Select Specialty Battle Creek,Long Term Acute Care Hospital,300 North Ave,Battle Creek,MI ,49017-3307
+140,Sheridan Community Hospital,Teaching Hospital|Community Hospital|Critical Access Hospital,"301 N Main St, PO Box 279",Sheridan,MI ,48884-9235
+141,Sparrow Carson Hospital,Teaching Hospital|Community Hospital,"406 E Elm St, PO Box 879",Carson City,MI ,48811-0879
+142,Sparrow Clinton Hospital,Community Hospital|Critical Access Hospital,805 S Oakland St,St. Johns,MI ,48879-2253
+143,Sparrow Eaton Hospital,Community Hospital|Critical Access Hospital,321 E Harris St,Charlotte,MI ,48813-1629
+144,Sparrow Health System,Teaching Hospital|Community Hospital,"1215 E Michigan Ave, PO Box 30480",Lansing,MI ,48909-7980
+145,Sparrow Hospital,Community Hospital,1215 E Michigan Ave,Lansing,MI ,48912-1811
+146,Sparrow Hospital-St. Lawrence Campus,Community Hospital,1210 W Saginaw St,Lansing,MI ,48915-1927
+147,Sparrow Ionia Hospital,Community Hospital|Critical Access Hospital,3565 S State Rd,Ionia,MI ,48846-1899
+148,Sparrow Specialty Hospital,Long Term Acute Care Hospital,"8 W Tower, 1215 E Michigan Ave",Lansing,MI ,48912
+149,Spectrum Health,Teaching Hospital|Community Hospital,"100 Michigan St NE, MC 060",Grand Rapids,MI ,49503-2555
+150,Spectrum Health Big Rapids Hospital,Teaching Hospital|Community Hospital,605 Oak St,Big Rapids,MI ,49307-2099
+151,Spectrum Health Blodgett Hospital,Community Hospital,1840 Wealthy St SE,Grand Rapids,MI ,49506-2968
+152,Spectrum Health Butterworth Hospital,Community Hospital,100 Michigan St NE,Grand Rapids,MI ,49503-2560
+153,Spectrum Health Gerber Memorial,Teaching Hospital|Community Hospital|Critical Access Hospital,212 S Sullivan Ave,Fremont,MI ,49412-1548
+154,Spectrum Health Kelsey Hospital,Community Hospital|Critical Access Hospital,418 Washington St,Lakeview,MI ,48850-9806
+155,Spectrum Health Lakeland,Community,1234 Napier Ave,St. Joseph,MI ,49085-2158
+156,Spectrum Health Ludington Hospital,Community Hospital,One Atkinson Dr,Ludington,MI ,49431-1906
+157,Spectrum Health Pennock,Community Hospital|Critical Access Hospital,1009 W Green St,Hastings,MI ,49058-1710
+158,Spectrum Health Reed City Hospital,Community Hospital|Critical Access Hospital,PO Box 75,Reed City,MI ,49677-0075
+159,Spectrum Health United Hospital,Community Hospital,615 S Bower St,Greenville,MI ,48838-2614
+160,Spectrum Health Zeeland Community Hospital,Community Hospital,8333 Felch St,Zeeland,MI ,49464-2608
+161,St. Joseph Mercy Ann Arbor,Teaching Hospital|Community Hospital,"5301 E Huron River Dr, PO Box 995",Ann Arbor,MI ,48106-0995
+162,St. Joseph Mercy Chelsea,Teaching Hospital|Community Hospital,775 South Main St,Chelsea,MI ,48118-1383
+163,St. Joseph Mercy Livingston,Teaching Hospital|Community Hospital,620 Byron Rd,Howell,MI ,48843-1093
+164,St. Joseph Mercy Oakland,Teaching Hospital|Community Hospital,44405 Woodward Ave,Pontiac,MI ,48341-5023
+165,St. Mary Mercy Hospital,Teaching Hospital|Community Hospital,36475 5 Mile Rd,Livonia,MI ,48154-1988
+166,Straith Hospital for Special Surgery,,23901 Lahser Rd,Southfield,MI ,48033-6035
+167,Sturgis Hospital,Community Hospital,916 Myrtle St,Sturgis,MI ,49091-2326
+168,Surgeons Choice Medical Center,,22401 Foster Winter Dr,Southfield,MI ,48075
+169,Three Rivers Health,Community Hospital,701 S Health Pkwy,Three Rivers,MI ,49093-8352
+170,Trinity Health,Community Hospital,20555 Victor Pkwy,Livonia,MI ,48152-7031
+171,University of Michigan Health System,Teaching Hospital|Community Hospital,1500 E Medical Center Dr,Ann Arbor,MI ,48109-5000
+172,University of Michigan Hospitals &amp; Health Centers,Community Hospital,1500 E Medical Center Dr,Ann Arbor,MI ,48109-5000
+173,UP Health System - Bell,Community Hospital|Critical Access Hospital,901 Lakeshore Dr,Ishpeming,MI ,49849-1367
+174,UP Health System - Marquette,Teaching Hospital|Community Hospital,580 W College Ave,Marquette,MI ,49855-2736
+175,UP Health System - Portage,Teaching Hospital|Community Hospital,500 Campus Dr,Hancock,MI ,49930-1569
+176,Vibra of Southeastern Michigan LLC,Long Term Acute Care Hospital,26400 Outer Dr,Lincoln Park,MI ,48146-2088
+177,War Memorial Hospital,Teaching Hospital|Community Hospital,500 Osborn Blvd,Sault Ste Marie,MI ,49783-1884
